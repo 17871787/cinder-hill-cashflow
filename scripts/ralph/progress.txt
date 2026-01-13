@@ -1,0 +1,17 @@
+# Ralph Progress Log - Cash Flow Calendar
+Started: 13 January 2026
+
+## Context
+Simple cash flow timeline for Cinder Hill Farm.
+Critical dates: HMRC 31 Jan (£2.7k), Rent 2 Feb (£20k).
+Expected income: calves, lambs, VAT refund, salaries, haylage.
+
+
+--- Iteration 1 completed: 13 Jan 2026 09:19:04 ---
+
+## Learnings
+- US-001 was already complete on first check (Next.js + Tailwind + dark theme already set up)
+- Tailwind v4 uses `@import "tailwindcss"` in globals.css
+- Dark theme configured via CSS variables in :root and body bg-gray-900
+
+--- US-001 verified: 13 Jan 2026 ---

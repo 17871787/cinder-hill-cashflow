@@ -1,0 +1,15 @@
+{
+  "entries": [
+    { "date": "2026-01-07", "type": "in", "description": "29 lambs sold (Bentham)", "amount": 3954, "status": "received", "certainty": "complete" },
+    { "date": "2026-01-20", "type": "in", "description": "24 calves @ £725", "amount": 17400, "status": "pending", "certainty": "high" },
+    { "date": "2026-01-25", "type": "in", "description": "41 clean lambs @ £140", "amount": 5740, "status": "pending", "certainty": "high" },
+    { "date": "2026-01-31", "type": "out", "description": "HMRC payment", "amount": 2700, "status": "due", "certainty": "complete" },
+    { "date": "2026-01-31", "type": "in", "description": "VAT refund", "amount": 15000, "status": "pending", "certainty": "medium" },
+    { "date": "2026-02-01", "type": "in", "description": "Hannah + Joe salary", "amount": 3100, "status": "pending", "certainty": "high" },
+    { "date": "2026-02-02", "type": "out", "description": "Rent (half-yearly)", "amount": 20000, "status": "due", "certainty": "complete" },
+    { "date": "2026-02-14", "type": "event", "description": "Scab withdrawal ends - 302 lambs saleable", "amount": 0, "status": "pending", "certainty": "complete" },
+    { "date": "2026-02-15", "type": "in", "description": "Quad insurance claim", "amount": 2000, "status": "pending", "certainty": "medium" },
+    { "date": "2026-02-28", "type": "in", "description": "Haylage sale (1100 bales @ £55)", "amount": 60500, "status": "pending", "certainty": "low" }
+  ],
+  "startingBalance": 5000
+}
