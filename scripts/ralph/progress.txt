@@ -33,3 +33,11 @@ Key patterns found:
 - Client component with 'use client' directive
 
 --- US-001 through US-005 verified: 13 Jan 2026 ---
+
+## US-006: Vercel Deployment
+- GitHub: https://github.com/17871787/cinder-hill-cashflow.git
+- Production URL: https://cashflow-calendar.vercel.app
+- Auto-deploy: Configured via Vercel GitHub integration
+- Project already linked via .vercel/project.json
+
+--- US-006 completed: 13 Jan 2026 ---

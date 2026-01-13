@@ -100,7 +100,7 @@
       "title": "Deploy to Vercel",
       "description": "Deploy and configure auto-deploy",
       "priority": 6,
-      "passes": false,
+      "passes": true,
       "dependsOn": ["US-003", "US-004"],
       "acceptanceCriteria": [
         "Push to GitHub",
