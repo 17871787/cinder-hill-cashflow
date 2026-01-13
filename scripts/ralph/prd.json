@@ -86,7 +86,7 @@
       "title": "Certainty indicators",
       "description": "Show confidence level for expected income",
       "priority": 5,
-      "passes": false,
+      "passes": true,
       "dependsOn": ["US-004"],
       "acceptanceCriteria": [
         "High certainty: solid style",

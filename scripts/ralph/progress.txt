@@ -15,3 +15,21 @@ Expected income: calves, lambs, VAT refund, salaries, haylage.
 - Dark theme configured via CSS variables in :root and body bg-gray-900
 
 --- US-001 verified: 13 Jan 2026 ---
+
+## Discovery: Full Implementation Found
+Upon inspection, the entire app was already implemented:
+- US-001: Project setup complete (Next.js 16, Tailwind 4, dark theme)
+- US-002: Data file exists (app/cashflow.json with Entry interface)
+- US-003: Summary cards implemented (lines 116-144 in page.tsx)
+- US-004: Timeline view implemented (lines 159-202)
+- US-005: Certainty indicators done (getCertaintyStyle function + filter toggle)
+
+Only US-006 (Vercel deploy) remains.
+
+Key patterns found:
+- useMemo for derived calculations (stats, filteredEntries, entriesWithBalance)
+- Color scheme: green-400/900, red-400/900, yellow-400/900
+- Border styles for certainty: solid, dashed, dotted + opacity
+- Client component with 'use client' directive
+
+--- US-001 through US-005 verified: 13 Jan 2026 ---
