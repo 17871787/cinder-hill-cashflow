@@ -1,8 +1,9 @@
 {
   "entries": [
     { "date": "2026-01-07", "type": "in", "description": "29 lambs sold (Bentham)", "amount": 3954, "status": "received", "certainty": "complete" },
+    { "date": "2026-01-14", "type": "in", "description": "20 lambs sold (Bentham)", "amount": 2750, "status": "received", "certainty": "complete" },
     { "date": "2026-01-20", "type": "in", "description": "24 calves @ £725", "amount": 17400, "status": "pending", "certainty": "high" },
-    { "date": "2026-01-25", "type": "in", "description": "41 clean lambs @ £140", "amount": 5740, "status": "pending", "certainty": "high" },
+    { "date": "2026-01-25", "type": "in", "description": "20 clean lambs @ £140", "amount": 2800, "status": "pending", "certainty": "high" },
     { "date": "2026-01-31", "type": "out", "description": "HMRC payment", "amount": 2700, "status": "due", "certainty": "complete" },
     { "date": "2026-01-31", "type": "in", "description": "VAT refund", "amount": 15000, "status": "pending", "certainty": "medium" },
     { "date": "2026-02-01", "type": "in", "description": "Hannah + Joe salary", "amount": 3100, "status": "pending", "certainty": "high" },
